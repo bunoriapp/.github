@@ -10,8 +10,8 @@ your library, reading offline, and exporting your books as EPUB files.
 
 | Project | Description |
 | --- | --- |
-| **[LNCrawler](https://github.com/LNCrawler/LNCrawler)** | Android novel reader and library |
-| **[LNCrawlerSources](https://github.com/LNCrawler/LNCrawlerSources)** | Modular source implementations |
+| **[Bunori](https://github.com/BunoriApp/Bunori)** | Android novel reader and library (Previously known as LNCrawler) |
+| **[LNCrawlerSources](https://github.com/BunoriApp/LNCrawlerSources)** | Modular source implementations |
 
 ## Features
 
@@ -20,7 +20,7 @@ your library, reading offline, and exporting your books as EPUB files.
 - **Downloads** — Download chapters for offline reading
 - **Reader** — Read your novels directly in the app
 - **Metadata** — Manage and update novel information
-- **EPUB export** — Export your novels for use with other readers
+- **Export** — Export your novels for use with other readers
 - **Modular sources** — Add sources independently from the core application
 
 ## Open Source
