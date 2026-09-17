@@ -1,17 +1,17 @@
-# LNCrawler
+# Bunori
 
-**An open-source Android novel reader for discovering, downloading, managing, and reading novels.**
+**An open-source Android novel reader for discovering, downloading, managing, exporting and reading novels.**
 
-LNCrawler brings the entire novel reading experience into one place — from
+Bunori brings the entire novel reading experience into one place, from
 finding novels through supported sources to downloading chapters, managing
-your library, reading offline, and exporting your books as EPUB files.
+your library, reading offline, and exporting your books as various files.
 
 ## Projects
 
 | Project | Description |
 | --- | --- |
 | **[Bunori](https://github.com/BunoriApp/Bunori)** | Android novel reader and library (Previously known as LNCrawler) |
-| **[LNCrawlerSources](https://github.com/BunoriApp/LNCrawlerSources)** | Modular source implementations |
+| **[Extensions](https://github.com/BunoriApp/extensions)** | Sources for Bunori implemented in Rust |
 
 ## Features
 
@@ -21,9 +21,9 @@ your library, reading offline, and exporting your books as EPUB files.
 - **Reader** — Read your novels directly in the app
 - **Metadata** — Manage and update novel information
 - **Export** — Export your novels for use with other readers
-- **Modular sources** — Add sources independently from the core application
+- **Blazingly Fast sources** — Sources loads and send list of even 7000+ of chapter in minimal time
 
 ## Open Source
 
-LNCrawler is free and open source. Contributions, source implementations,
+Bunori is free and open source. Contributions, source implementations,
 and feedback are welcome.
