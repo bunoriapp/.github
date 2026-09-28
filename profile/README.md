@@ -12,6 +12,7 @@ your library, reading offline, and exporting your books as various files.
 | --- | --- |
 | **[Bunori](https://github.com/BunoriApp/Bunori)** | Android novel reader and library (Previously known as LNCrawler) |
 | **[Extensions](https://github.com/BunoriApp/extensions)** | Sources for Bunori implemented in Rust |
+| **[LNReader runtime](https://github.com/BunoriApp/bunori_lnreader_runtime)** | Support for plugins from LNReader |
 
 ## Features
 
